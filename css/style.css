@@ -2,8 +2,6 @@ header{
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     background-size: 23%;
-    margin: 0px;
-    padding: 0px;
 }
 
 .logo{
@@ -17,15 +15,12 @@ header{
 
 .gray{
     color: #868686;
-    margin-top: 0px;
-    padding-top: 0px;
     display: inline;
 }
 
 .gray_date{
     color: #868686;
-    padding-top: 0px;
-    margin-top: 0px;
+    margin-top: 0;
 }
 
 .blue {
