@@ -15,11 +15,31 @@ header{
 }
 
 .blue {
-    color: #49b9ea;
+    color: #49b9ea;    
+}
+
+span{
+    font-size: 12px;
 }
 
 ul {
     padding-left: 1rem;
+}
+
+.table_raw_1{
+    background-color: #20a9e5;
+}
+
+.table_raw_2{
+    background-color: #b1e5f2;
+}
+
+.table_raw_4{
+    background-color: #b1e5f2;
+}
+
+tbody.td{
+    padding-left: 4rem;
 }
 
 .articolo_monitor {
