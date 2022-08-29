@@ -26,7 +26,7 @@ ul {
     padding-left: 1rem;
 }
 
-.table_raw_1{
+thead{
     background-color: #20a9e5;
 }
 
@@ -36,10 +36,6 @@ ul {
 
 .table_raw_4{
     background-color: #b1e5f2;
-}
-
-tbody.td{
-    padding-left: 4rem;
 }
 
 .articolo_monitor {
