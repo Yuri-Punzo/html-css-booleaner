@@ -9,7 +9,7 @@ header{
     padding-top: 1rem;
 }
 
-#title {
+.title {
     display: inline;
 }
 
@@ -52,18 +52,18 @@ thead{
     color: #ffffff;
     padding-left: 1rem;
     padding-top: 1rem;
+    padding-bottom: 9rem;
     background-image: url("../img/monitor.jpg");
-    width: 250px;
-    height: 208px;
+    background-repeat: no-repeat;
 }
 
 .articolo_grafici {
     color: #ffffff;
     padding-left: 1rem;
     padding-top: 1rem;
+    padding-bottom: 9rem;
     background-image: url("../img/graph.jpg");
-    width: 250px;
-    height: 207px;
+    background-repeat: no-repeat;
 }
 
 /* 1-nelle immagini di articolo grafici e monitor è scorretto mettere dimensioni assolute in pixel ?
