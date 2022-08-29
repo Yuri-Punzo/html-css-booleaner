@@ -6,3 +6,7 @@ header{
 .logo{
     width: 20%;
 }
+
+ul {
+    padding-left: 1rem;
+}
