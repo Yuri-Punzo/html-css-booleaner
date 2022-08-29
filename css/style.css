@@ -2,6 +2,8 @@ header{
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     background-size: 23%;
+    margin: 0px;
+    padding: 0px;
 }
 
 .logo{
@@ -9,12 +11,26 @@ header{
     padding-top: 1rem;
 }
 
+#title {
+    display: inline;
+}
+
 .gray{
     color: #868686;
+    margin-top: 0px;
+    padding-top: 0px;
+    display: inline;
+}
+
+.gray_date{
+    color: #868686;
+    padding-top: 0px;
+    margin-top: 0px;
 }
 
 .blue {
-    color: #49b9ea;    
+    color: #49b9ea;
+    display: inline;    
 }
 
 span{
