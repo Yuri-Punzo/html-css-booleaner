@@ -73,10 +73,10 @@ thead{
 /* 1-nelle immagini di articolo grafici e monitor è scorretto mettere dimensioni assolute in pixel ?
 Se si chiedere info e capire come andava fatto.
 
-2-Capire come si mettevano le scritte di colori diversi acanto con gli h4/h6 etcc
+2-Capire come si mettevano le scritte di colori diversi acanto con gli h4/h6 etcc --> si poteva usare div e span per semplificare il tutto.
 
 3-Capire come mettere il banner completo left right e bottom ha a che vedere con padding margin o cosa ?
 
-4-Come distanziare le caselle della tabella ?
+4-Come distanziare le caselle della tabella ? --> assegnando una width alla riga che deve occupare una quantità diversa
 
-5-Come avere una riga di colore continuato e come far andare a capo in una casella il testo lungo ? */
+5-Come avere una riga di colore continuato e come far andare a capo in una casella il testo lungo ? --> border-spacing: 0px; */
