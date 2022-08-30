@@ -36,6 +36,10 @@ ul {
     padding-left: 1rem;
 }
 
+table{
+    border-spacing: 0px;
+}
+
 thead{
     background-color: #20a9e5;
 }
